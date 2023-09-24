@@ -1,0 +1,20 @@
+{
+  "name": "vendor_name/php-security-work.pp",
+  "description": "Система онлайн тестирования по охране труда по разделу Первая Помощь",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "Michalicch",
+      "email": "lorka.diskaveri@gmail.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "wfm\\": "vendor/wfm",
+      "app\\": "app"
+    }
+  },
+  "require": {
+  }
+}
