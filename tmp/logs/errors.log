@@ -9,3 +9,220 @@
 =================
 [2023-09-24 15:57:10] Текст ошибки: eeeeeeeeeeeeeee | Файл: F:\0_SERVER\OSPanel_543\domains\php-security-work.pp\public\index.php | Строка: 18
 =================
+[2023-09-25 21:43:48] Текст ошибки: Страница не найдена! | Файл: F:\0_SERVER\OSPanel_543\domains\php-security-work.pp\vendor\wfm\Router.php | Строка: 61
+=================
+[2023-09-25 21:51:52] Текст ошибки: Контроллер app\controllers\admin\MainController не найден! | Файл: F:\0_SERVER\OSPanel_543\domains\php-security-work.pp\vendor\wfm\Router.php | Строка: 59
+=================
+[2023-09-25 21:52:56] Текст ошибки: Контроллер app\controllers\admin\MainController не найден! | Файл: F:\0_SERVER\OSPanel_543\domains\php-security-work.pp\vendor\wfm\Router.php | Строка: 59
+=================
+[2023-09-25 21:52:58] Текст ошибки: Контроллер app\controllers\admin\MainController не найден! | Файл: F:\0_SERVER\OSPanel_543\domains\php-security-work.pp\vendor\wfm\Router.php | Строка: 59
+=================
+[2023-09-25 21:53:36] Текст ошибки: Контроллер app\controllers\admin\MainController не найден! | Файл: F:\0_SERVER\OSPanel_543\domains\php-security-work.pp\vendor\wfm\Router.php | Строка: 59
+=================
+[2023-09-25 21:54:04] Текст ошибки: Контроллер app\controllers\admin\MainController не найден! | Файл: F:\0_SERVER\OSPanel_543\domains\php-security-work.pp\vendor\wfm\Router.php | Строка: 59
+=================
+[2023-09-25 21:54:06] Текст ошибки: Контроллер app\controllers\admin\MainController не найден! | Файл: F:\0_SERVER\OSPanel_543\domains\php-security-work.pp\vendor\wfm\Router.php | Строка: 59
+=================
+[2023-09-25 21:54:06] Текст ошибки: Контроллер app\controllers\admin\MainController не найден! | Файл: F:\0_SERVER\OSPanel_543\domains\php-security-work.pp\vendor\wfm\Router.php | Строка: 59
+=================
+[2023-09-25 21:54:15] Текст ошибки: Контроллер app\controllers\admin\MainController не найден! | Файл: F:\0_SERVER\OSPanel_543\domains\php-security-work.pp\vendor\wfm\Router.php | Строка: 59
+=================
+[2023-09-25 21:54:17] Текст ошибки: Контроллер app\controllers\admin\MainController не найден! | Файл: F:\0_SERVER\OSPanel_543\domains\php-security-work.pp\vendor\wfm\Router.php | Строка: 59
+=================
+[2023-09-25 21:54:18] Текст ошибки: Контроллер app\controllers\admin\MainController не найден! | Файл: F:\0_SERVER\OSPanel_543\domains\php-security-work.pp\vendor\wfm\Router.php | Строка: 59
+=================
+[2023-09-25 21:54:18] Текст ошибки: Контроллер app\controllers\admin\MainController не найден! | Файл: F:\0_SERVER\OSPanel_543\domains\php-security-work.pp\vendor\wfm\Router.php | Строка: 59
+=================
+[2023-09-25 21:54:18] Текст ошибки: Контроллер app\controllers\admin\MainController не найден! | Файл: F:\0_SERVER\OSPanel_543\domains\php-security-work.pp\vendor\wfm\Router.php | Строка: 59
+=================
+[2023-09-25 21:54:18] Текст ошибки: Контроллер app\controllers\admin\MainController не найден! | Файл: F:\0_SERVER\OSPanel_543\domains\php-security-work.pp\vendor\wfm\Router.php | Строка: 59
+=================
+[2023-09-25 21:54:19] Текст ошибки: Контроллер app\controllers\admin\MainController не найден! | Файл: F:\0_SERVER\OSPanel_543\domains\php-security-work.pp\vendor\wfm\Router.php | Строка: 59
+=================
+[2023-09-25 21:54:19] Текст ошибки: Контроллер app\controllers\admin\MainController не найден! | Файл: F:\0_SERVER\OSPanel_543\domains\php-security-work.pp\vendor\wfm\Router.php | Строка: 59
+=================
+[2023-09-25 21:54:19] Текст ошибки: Контроллер app\controllers\admin\MainController не найден! | Файл: F:\0_SERVER\OSPanel_543\domains\php-security-work.pp\vendor\wfm\Router.php | Строка: 59
+=================
+[2023-09-25 21:54:19] Текст ошибки: Контроллер app\controllers\admin\MainController не найден! | Файл: F:\0_SERVER\OSPanel_543\domains\php-security-work.pp\vendor\wfm\Router.php | Строка: 59
+=================
+[2023-09-25 21:55:57] Текст ошибки: Контроллер app\controllers\admin\MainController не найден! | Файл: F:\0_SERVER\OSPanel_543\domains\php-security-work.pp\vendor\wfm\Router.php | Строка: 59
+=================
+[2023-09-25 21:56:20] Текст ошибки: Контроллер app\controllers\PageController не найден! | Файл: F:\0_SERVER\OSPanel_543\domains\php-security-work.pp\vendor\wfm\Router.php | Строка: 59
+=================
+[2023-09-25 21:56:48] Текст ошибки: Метод app\controllers\MainController::indexAction не найден! | Файл: F:\0_SERVER\OSPanel_543\domains\php-security-work.pp\vendor\wfm\Router.php | Строка: 56
+=================
+[2023-09-25 21:56:50] Текст ошибки: Метод app\controllers\MainController::indexAction не найден! | Файл: F:\0_SERVER\OSPanel_543\domains\php-security-work.pp\vendor\wfm\Router.php | Строка: 56
+=================
+[2023-09-25 21:56:52] Текст ошибки: Метод app\controllers\MainController::indexAction не найден! | Файл: F:\0_SERVER\OSPanel_543\domains\php-security-work.pp\vendor\wfm\Router.php | Строка: 56
+=================
+[2023-09-25 21:56:52] Текст ошибки: Метод app\controllers\MainController::indexAction не найден! | Файл: F:\0_SERVER\OSPanel_543\domains\php-security-work.pp\vendor\wfm\Router.php | Строка: 56
+=================
+[2023-09-25 22:01:46] Текст ошибки: Метод app\controllers\PageController::viewAction не найден! | Файл: F:\0_SERVER\OSPanel_543\domains\php-security-work.pp\vendor\wfm\Router.php | Строка: 56
+=================
+[2023-09-25 22:02:37] Текст ошибки: Метод app\controllers\PageController::viewAction не найден! | Файл: F:\0_SERVER\OSPanel_543\domains\php-security-work.pp\vendor\wfm\Router.php | Строка: 56
+=================
+[2023-09-25 22:02:39] Текст ошибки: Метод app\controllers\PageController::viewAction не найден! | Файл: F:\0_SERVER\OSPanel_543\domains\php-security-work.pp\vendor\wfm\Router.php | Строка: 56
+=================
+[2023-09-25 22:02:39] Текст ошибки: Метод app\controllers\PageController::viewAction не найден! | Файл: F:\0_SERVER\OSPanel_543\domains\php-security-work.pp\vendor\wfm\Router.php | Строка: 56
+=================
+[2023-09-25 22:02:39] Текст ошибки: Метод app\controllers\PageController::viewAction не найден! | Файл: F:\0_SERVER\OSPanel_543\domains\php-security-work.pp\vendor\wfm\Router.php | Строка: 56
+=================
+[2023-09-25 22:04:41] Текст ошибки: Метод app\controllers\admin\MainController::indexAction не найден! | Файл: F:\0_SERVER\OSPanel_543\domains\php-security-work.pp\vendor\wfm\Router.php | Строка: 56
+=================
+[2023-10-02 21:15:50] Текст ошибки: Страница не найдена! | Файл: F:\0_SERVER\OSPanel_543\domains\php-security-work.pp\vendor\wfm\Router.php | Строка: 62
+=================
+[2023-10-02 21:19:59] Текст ошибки: Страница не найдена! | Файл: F:\0_SERVER\OSPanel_543\domains\php-security-work.pp\vendor\wfm\Router.php | Строка: 62
+=================
+[2023-10-02 21:20:38] Текст ошибки: Страница не найдена! | Файл: F:\0_SERVER\OSPanel_543\domains\php-security-work.pp\vendor\wfm\Router.php | Строка: 62
+=================
+[2023-10-02 21:22:03] Текст ошибки: Call to undefined function wfm\removeQueryString() | Файл: F:\0_SERVER\OSPanel_543\domains\php-security-work.pp\vendor\wfm\Router.php | Строка: 34
+=================
+[2023-10-02 21:23:04] Текст ошибки: Страница не найдена! | Файл: F:\0_SERVER\OSPanel_543\domains\php-security-work.pp\vendor\wfm\Router.php | Строка: 62
+=================
+[2023-10-02 21:23:46] Текст ошибки: Страница не найдена! | Файл: F:\0_SERVER\OSPanel_543\domains\php-security-work.pp\vendor\wfm\Router.php | Строка: 62
+=================
+[2023-10-02 21:23:57] Текст ошибки: Страница не найдена! | Файл: F:\0_SERVER\OSPanel_543\domains\php-security-work.pp\vendor\wfm\Router.php | Строка: 62
+=================
+[2023-10-02 21:23:58] Текст ошибки: Страница не найдена! | Файл: F:\0_SERVER\OSPanel_543\domains\php-security-work.pp\vendor\wfm\Router.php | Строка: 62
+=================
+[2023-10-02 21:23:59] Текст ошибки: Страница не найдена! | Файл: F:\0_SERVER\OSPanel_543\domains\php-security-work.pp\vendor\wfm\Router.php | Строка: 62
+=================
+[2023-10-02 21:23:59] Текст ошибки: Страница не найдена! | Файл: F:\0_SERVER\OSPanel_543\domains\php-security-work.pp\vendor\wfm\Router.php | Строка: 62
+=================
+[2023-10-02 21:24:30] Текст ошибки: Страница не найдена! | Файл: F:\0_SERVER\OSPanel_543\domains\php-security-work.pp\vendor\wfm\Router.php | Строка: 62
+=================
+[2023-10-02 21:24:32] Текст ошибки: Страница не найдена! | Файл: F:\0_SERVER\OSPanel_543\domains\php-security-work.pp\vendor\wfm\Router.php | Строка: 62
+=================
+[2023-10-02 21:26:15] Текст ошибки: Страница не найдена! | Файл: F:\0_SERVER\OSPanel_543\domains\php-security-work.pp\vendor\wfm\Router.php | Строка: 63
+=================
+[2023-10-02 21:26:31] Текст ошибки: Страница не найдена! | Файл: F:\0_SERVER\OSPanel_543\domains\php-security-work.pp\vendor\wfm\Router.php | Строка: 63
+=================
+[2023-10-02 21:26:38] Текст ошибки: Страница не найдена! | Файл: F:\0_SERVER\OSPanel_543\domains\php-security-work.pp\vendor\wfm\Router.php | Строка: 63
+=================
+[2023-10-02 21:55:13] Текст ошибки: Call to undefined method app\controllers\PageController::getModel() | Файл: F:\0_SERVER\OSPanel_543\domains\php-security-work.pp\vendor\wfm\Router.php | Строка: 46
+=================
+[2023-10-02 21:55:25] Текст ошибки: Typed property wfm\Controller::$model must not be accessed before initialization | Файл: F:\0_SERVER\OSPanel_543\domains\php-security-work.pp\app\controllers\MainController.php | Строка: 13
+=================
+[2023-10-02 21:55:26] Текст ошибки: Typed property wfm\Controller::$model must not be accessed before initialization | Файл: F:\0_SERVER\OSPanel_543\domains\php-security-work.pp\app\controllers\MainController.php | Строка: 13
+=================
+[2023-10-03 20:39:45] Текст ошибки: Страница не найдена! | Файл: F:\0_SERVER\OSPanel_543\domains\php-security-work.pp\vendor\wfm\Router.php | Строка: 63
+=================
+[2023-10-03 20:55:12] Текст ошибки: Typed property wfm\Controller::$model must not be accessed before initialization | Файл: F:\0_SERVER\OSPanel_543\domains\php-security-work.pp\app\controllers\MainController.php | Строка: 13
+=================
+[2023-10-03 20:56:32] Текст ошибки: Typed property wfm\Controller::$model must not be accessed before initialization | Файл: F:\0_SERVER\OSPanel_543\domains\php-security-work.pp\app\controllers\MainController.php | Строка: 13
+=================
+[2023-10-03 20:56:34] Текст ошибки: Typed property wfm\Controller::$model must not be accessed before initialization | Файл: F:\0_SERVER\OSPanel_543\domains\php-security-work.pp\app\controllers\MainController.php | Строка: 13
+=================
+[2023-10-03 20:57:26] Текст ошибки: Undefined property: app\controllers\MainController::$model | Файл: F:\0_SERVER\OSPanel_543\domains\php-security-work.pp\app\controllers\MainController.php | Строка: 13
+=================
+[2023-10-03 21:07:33] Текст ошибки: Typed property wfm\Controller::$model must not be accessed before initialization | Файл: F:\0_SERVER\OSPanel_543\domains\php-security-work.pp\app\controllers\MainController.php | Строка: 13
+=================
+[2023-10-03 21:07:33] Текст ошибки: Typed property wfm\Controller::$model must not be accessed before initialization | Файл: F:\0_SERVER\OSPanel_543\domains\php-security-work.pp\app\controllers\MainController.php | Строка: 13
+=================
+[2023-10-03 21:07:37] Текст ошибки: Typed property wfm\Controller::$model must not be accessed before initialization | Файл: F:\0_SERVER\OSPanel_543\domains\php-security-work.pp\app\controllers\MainController.php | Строка: 13
+=================
+[2023-10-03 21:08:10] Текст ошибки: Typed property wfm\Controller::$model must not be accessed before initialization | Файл: F:\0_SERVER\OSPanel_543\domains\php-security-work.pp\app\controllers\MainController.php | Строка: 13
+=================
+[2023-10-03 21:13:37] Текст ошибки: Typed property wfm\Controller::$model must not be accessed before initialization | Файл: F:\0_SERVER\OSPanel_543\domains\php-security-work.pp\app\controllers\MainController.php | Строка: 13
+=================
+[2023-10-03 21:16:28] Текст ошибки: Не найден вид: F:\0_SERVER\OSPanel_543\domains\php-security-work.pp/app/views/Main/index.php | Файл: F:\0_SERVER\OSPanel_543\domains\php-security-work.pp\vendor\wfm\View.php | Строка: 37
+=================
+[2023-10-03 21:16:54] Текст ошибки: Не найден вид: F:\0_SERVER\OSPanel_543\domains\php-security-work.pp/app/views/Main/index.php | Файл: F:\0_SERVER\OSPanel_543\domains\php-security-work.pp\vendor\wfm\View.php | Строка: 37
+=================
+[2023-10-03 21:17:16] Текст ошибки: Не найден вид: F:\0_SERVER\OSPanel_543\domains\php-security-work.pp/app/views/Main/index.php | Файл: F:\0_SERVER\OSPanel_543\domains\php-security-work.pp\vendor\wfm\View.php | Строка: 37
+=================
+[2023-10-03 21:18:27] Текст ошибки: Не найден вид: F:\0_SERVER\OSPanel_543\domains\php-security-work.pp/app/views/Main/index.php | Файл: F:\0_SERVER\OSPanel_543\domains\php-security-work.pp\vendor\wfm\View.php | Строка: 37
+=================
+[2023-10-03 21:18:27] Текст ошибки: Не найден вид: F:\0_SERVER\OSPanel_543\domains\php-security-work.pp/app/views/Main/index.php | Файл: F:\0_SERVER\OSPanel_543\domains\php-security-work.pp\vendor\wfm\View.php | Строка: 37
+=================
+[2023-10-03 21:25:22] Текст ошибки: Не найден шаблон F:\0_SERVER\OSPanel_543\domains\php-security-work.pp/app/views/layouts/php-security-work.pp.php | Файл: F:\0_SERVER\OSPanel_543\domains\php-security-work.pp\vendor\wfm\View.php | Строка: 45
+=================
+[2023-10-03 22:59:24] Текст ошибки: Не найден шаблон F:\0_SERVER\OSPanel_543\domains\php-security-work.pp/app/views/layouts/test.php | Файл: F:\0_SERVER\OSPanel_543\domains\php-security-work.pp\vendor\wfm\View.php | Строка: 45
+=================
+[2023-10-03 23:00:34] Текст ошибки: Не найден шаблон F:\0_SERVER\OSPanel_543\domains\php-security-work.pp/app/views/layouts/test2.php | Файл: F:\0_SERVER\OSPanel_543\domains\php-security-work.pp\vendor\wfm\View.php | Строка: 45
+=================
+[2023-10-03 23:01:20] Текст ошибки: Не найден шаблон F:\0_SERVER\OSPanel_543\domains\php-security-work.pp/app/views/layouts/php-security-work.pp.php | Файл: F:\0_SERVER\OSPanel_543\domains\php-security-work.pp\vendor\wfm\View.php | Строка: 45
+=================
+[2023-10-03 23:06:52] Текст ошибки: syntax error, unexpected token ";" | Файл: F:\0_SERVER\OSPanel_543\domains\php-security-work.pp\app\views\layouts\php-security-work.pp.php | Строка: 18
+=================
+[2023-10-03 23:07:56] Текст ошибки: Undefined constant "php" | Файл: F:\0_SERVER\OSPanel_543\domains\php-security-work.pp\app\views\layouts\php-security-work.pp.php | Строка: 18
+=================
+[2023-10-03 23:10:25] Текст ошибки: Call to undefined method wfm\View::getMeta() | Файл: F:\0_SERVER\OSPanel_543\domains\php-security-work.pp\app\views\layouts\php-security-work.pp.php | Строка: 29
+=================
+[2023-10-04 18:21:15] Текст ошибки: Страница не найдена! | Файл: F:\0_SERVER\OSPanel_543\domains\php-security-work.pp\vendor\wfm\Router.php | Строка: 61
+=================
+[2023-10-04 19:12:12] Текст ошибки: Call to undefined function wfm\h() | Файл: F:\0_SERVER\OSPanel_543\domains\php-security-work.pp\vendor\wfm\View.php | Строка: 52
+=================
+[2023-10-04 19:24:24] Текст ошибки: Undefined variable $test | Файл: F:\0_SERVER\OSPanel_543\domains\php-security-work.pp\app\views\Main\index.php | Строка: 2
+=================
+[2023-10-04 19:32:38] Текст ошибки: Undefined variable $test | Файл: F:\0_SERVER\OSPanel_543\domains\php-security-work.pp\app\views\Main\index.php | Строка: 2
+=================
+[2023-10-04 19:34:53] Текст ошибки: Undefined variable $test | Файл: F:\0_SERVER\OSPanel_543\domains\php-security-work.pp\app\views\Main\index.php | Строка: 2
+=================
+[2023-10-04 19:34:54] Текст ошибки: Undefined variable $test | Файл: F:\0_SERVER\OSPanel_543\domains\php-security-work.pp\app\views\Main\index.php | Строка: 2
+=================
+[2023-10-04 19:34:54] Текст ошибки: Undefined variable $test | Файл: F:\0_SERVER\OSPanel_543\domains\php-security-work.pp\app\views\Main\index.php | Строка: 2
+=================
+[2023-10-04 19:34:55] Текст ошибки: Undefined variable $test | Файл: F:\0_SERVER\OSPanel_543\domains\php-security-work.pp\app\views\Main\index.php | Строка: 2
+=================
+[2023-10-04 19:35:28] Текст ошибки: Undefined variable $test | Файл: F:\0_SERVER\OSPanel_543\domains\php-security-work.pp\app\views\Main\index.php | Строка: 2
+=================
+[2023-10-04 19:35:40] Текст ошибки: Undefined variable $name | Файл: F:\0_SERVER\OSPanel_543\domains\php-security-work.pp\app\views\Main\index.php | Строка: 3
+=================
+[2023-10-04 19:35:45] Текст ошибки: Array to string conversion | Файл: F:\0_SERVER\OSPanel_543\domains\php-security-work.pp\app\views\Main\index.php | Строка: 4
+=================
+[2023-10-04 19:35:59] Текст ошибки: Array to string conversion | Файл: F:\0_SERVER\OSPanel_543\domains\php-security-work.pp\app\views\Main\index.php | Строка: 4
+=================
+[2023-10-04 19:36:01] Текст ошибки: Array to string conversion | Файл: F:\0_SERVER\OSPanel_543\domains\php-security-work.pp\app\views\Main\index.php | Строка: 4
+=================
+[2023-10-04 19:36:01] Текст ошибки: Array to string conversion | Файл: F:\0_SERVER\OSPanel_543\domains\php-security-work.pp\app\views\Main\index.php | Строка: 4
+=================
+[2023-10-04 19:36:04] Текст ошибки: Array to string conversion | Файл: F:\0_SERVER\OSPanel_543\domains\php-security-work.pp\app\views\Main\index.php | Строка: 4
+=================
+[2023-10-04 19:36:05] Текст ошибки: Array to string conversion | Файл: F:\0_SERVER\OSPanel_543\domains\php-security-work.pp\app\views\Main\index.php | Строка: 4
+=================
+[2023-10-04 19:36:06] Текст ошибки: Array to string conversion | Файл: F:\0_SERVER\OSPanel_543\domains\php-security-work.pp\app\views\Main\index.php | Строка: 4
+=================
+[2023-10-04 19:36:06] Текст ошибки: Array to string conversion | Файл: F:\0_SERVER\OSPanel_543\domains\php-security-work.pp\app\views\Main\index.php | Строка: 4
+=================
+[2023-10-07 19:50:09] Текст ошибки: Страница не найдена! | Файл: F:\0_SERVER\OSPanel_543\domains\php-security-work.pp\vendor\wfm\Router.php | Строка: 61
+=================
+[2023-10-08 22:40:27] Текст ошибки: Страница не найдена! | Файл: F:\0_SERVER\OSPanel_543\domains\php-security-work.pp\vendor\wfm\Router.php | Строка: 61
+=================
+[2023-10-08 23:12:08] Текст ошибки: Нет  подключения к базе данных DB | Файл: F:\0_SERVER\OSPanel_543\domains\php-security-work.pp\vendor\wfm\Db.php | Строка: 16
+=================
+[2023-10-08 23:13:14] Текст ошибки: Нет  подключения к базе данных DB | Файл: F:\0_SERVER\OSPanel_543\domains\php-security-work.pp\vendor\wfm\Db.php | Строка: 16
+=================
+[2023-10-08 23:13:45] Текст ошибки: Нет  подключения к базе данных DB | Файл: F:\0_SERVER\OSPanel_543\domains\php-security-work.pp\vendor\wfm\Db.php | Строка: 16
+=================
+[2023-10-08 23:14:51] Текст ошибки: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'security_work.name' doesn't exist | Файл: F:\0_SERVER\OSPanel_543\domains\php-security-work.pp\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Строка: 206
+=================
+[2023-10-08 23:21:34] Текст ошибки: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'security_work.name' doesn't exist | Файл: F:\0_SERVER\OSPanel_543\domains\php-security-work.pp\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Строка: 206
+=================
+[2023-10-08 23:29:27] Текст ошибки: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ' number_question, number_answer, text_question, text_answer, correct_answer' at line 1 | Файл: F:\0_SERVER\OSPanel_543\domains\php-security-work.pp\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Строка: 206
+=================
+[2023-10-08 23:31:02] Текст ошибки: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ' 
+                                SELECT * FROM questions_base_pp WHERE numb...' at line 1 | Файл: F:\0_SERVER\OSPanel_543\domains\php-security-work.pp\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Строка: 206
+=================
+[2023-10-08 23:31:03] Текст ошибки: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ' 
+                                SELECT * FROM questions_base_pp WHERE numb...' at line 1 | Файл: F:\0_SERVER\OSPanel_543\domains\php-security-work.pp\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Строка: 206
+=================
+[2023-10-08 23:31:47] Текст ошибки: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ' 
+                                SELECT * FROM questions_base_pp WHERE numb...' at line 1 | Файл: F:\0_SERVER\OSPanel_543\domains\php-security-work.pp\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Строка: 206
+=================
+[2023-10-08 23:31:48] Текст ошибки: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ' 
+                                SELECT * FROM questions_base_pp WHERE numb...' at line 1 | Файл: F:\0_SERVER\OSPanel_543\domains\php-security-work.pp\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Строка: 206
+=================
+[2023-10-08 23:31:48] Текст ошибки: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ' 
+                                SELECT * FROM questions_base_pp WHERE numb...' at line 1 | Файл: F:\0_SERVER\OSPanel_543\domains\php-security-work.pp\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Строка: 206
+=================
+[2023-10-08 23:32:42] Текст ошибки: foreach() argument must be of type array|object, string given | Файл: F:\0_SERVER\OSPanel_543\domains\php-security-work.pp\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Строка: 123
+=================
+[2023-10-08 23:33:26] Текст ошибки: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ' 
+                                SELECT * FROM questions_base_pp WHERE numb...' at line 1 | Файл: F:\0_SERVER\OSPanel_543\domains\php-security-work.pp\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Строка: 206
+=================
+[2023-10-08 23:35:19] Текст ошибки: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '/ SELECT * FROM questions_base_pp WHERE id = 1, 
+//                         ...' at line 2 | Файл: F:\0_SERVER\OSPanel_543\domains\php-security-work.pp\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Строка: 206
+=================
+[2023-10-08 23:36:49] Текст ошибки: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '/                                SELECT * FROM questions_base_pp WHERE number...' at line 3 | Файл: F:\0_SERVER\OSPanel_543\domains\php-security-work.pp\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Строка: 206
+=================
