@@ -226,3 +226,13 @@
 =================
 [2023-10-08 23:36:49] Текст ошибки: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '/                                SELECT * FROM questions_base_pp WHERE number...' at line 3 | Файл: F:\0_SERVER\OSPanel_543\domains\php-security-work.pp\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Строка: 206
 =================
+[2023-10-09 23:50:18] Текст ошибки: Страница не найдена! | Файл: F:\0_SERVER\OSPanel_543\domains\php-security-work.pp\vendor\wfm\Router.php | Строка: 61
+=================
+[2023-10-10 21:14:45] Текст ошибки: Страница не найдена! | Файл: F:\0_SERVER\OSPanel_543\domains\php-security-work.pp\vendor\wfm\Router.php | Строка: 61
+=================
+[2023-10-11 20:52:40] Текст ошибки: Страница не найдена! | Файл: F:\0_SERVER\OSPanel_543\domains\php-security-work.pp\vendor\wfm\Router.php | Строка: 61
+=================
+[2023-10-16 18:44:24] Текст ошибки: Страница не найдена! | Файл: F:\0_SERVER\OSPanel_543\domains\php-security-work.pp\vendor\wfm\Router.php | Строка: 61
+=================
+[2024-01-03 10:48:18] Текст ошибки: Страница не найдена! | Файл: F:\0_SERVER\OSPanel_543\domains\php-security-work.pp\vendor\wfm\Router.php | Строка: 61
+=================

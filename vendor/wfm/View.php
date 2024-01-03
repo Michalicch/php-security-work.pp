@@ -69,7 +69,7 @@ class View
                 $logs->grep('UPDATE'),
                 $logs->grep('DELETE')
             );
-            debug($logs);
+            //debug($logs);
         }
     }
 
