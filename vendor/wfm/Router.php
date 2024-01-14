@@ -22,18 +22,20 @@ class Router
     protected static function removeQueryString($url)
     {
         if($url){
-            $params = explode('&', $url, 2); //разбиваем адрес на два элемента до & и после, то что после это get параметры и тд
-            if(false === str_contains($params[0], '=')){
+            $params = explode('&', $url, 2); //разбиваем адрес на два элемента до первого & и после, то что после это get параметры и тд
+            if(false === str_contains($params[0], '=')){ //проверяем елементы масива на знак = если он есть то этот элемен относится к get параметрам
                 return rtrim($params[0], '/');//удаляем последний слеш и возвращаем строку
             }
         }
         return '';
     }
     public static function dispatch($url)
+
     {
 
-        $url = self::removeQueryString($url);
+        $url = self::removeQueryString($url); //удаляем из url get-параметры
         if(self::matchRoute($url)){
+            
 //            if(!empty(self::$route['lang'])){
 //                App::$app->setProperty('lang', self::$route['lang']);
         //}
@@ -48,7 +50,7 @@ class Router
                 $action = self::lowerCamelCase(self::$route['action'] . 'Action');
                 if(method_exists($controllerObject, $action)){
                     $controllerObject->$action();
-                    $controllerObject->getView();
+                    $controllerObject->getView(); //вид нужно подключать после Экшена, чтобы была возможность его переопределить
 
                 }else{
 
@@ -62,6 +64,7 @@ class Router
         }
     }
 
+    //метод сравнивает поступивший запрос с шаблоном регулярного выражения
     public static function matchRoute($url): bool
     {
         foreach (self::$routes as $pattern => $route){

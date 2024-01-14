@@ -6,12 +6,14 @@ class ErrorHandler
 {
     public function __construct()
     {
-        // https://habr.com/ru/articles/161483/
+        // https://habr.com/ru/articles/161483/ - информация по отлову ошибок
+        //проверяем включен ли режим разработки если включен показываем ошибки (-1) иначе - не показываем (0)
         if(DEBUG){
             error_reporting(-1);
         } else {
             error_reporting(0);
         }
+
         set_exception_handler([$this, 'exceptionHandler']); // в этом классе используем функцию обработчик exceptionHandler
         set_error_handler([$this, 'errorHandler']); // устанавливаем пользовательский обработчик ошибок
         ob_start(); //буферизируем ошибку, чтобы она не выводилась
@@ -40,7 +42,7 @@ class ErrorHandler
         $this->displayError('Исключение', $e->getMessage(), $e->getFile(), $e->getLine(), $e->getCode());
 
     }
-
+    //метод логирования ошибки
     protected function logError($message = '', $file = '', $line = '')
     {
         file_put_contents(
@@ -48,13 +50,14 @@ class ErrorHandler
             "[" . date('Y-m-d H:i:s') . "] Текст ошибки: {$message} | Файл: {$file} | Строка: {$line}\n=================\n",
             FILE_APPEND); //FILE_APPEND используется чтобы данные в файл дописывались в конце.
     }
-    protected function displayError($errno, $errstr, $errfile, $errline, $responce = 500) //номер ошибки, гекст ошибки, файл ошибки, строка ошибки, ответ в случае ошибки по умолчанию - 500
+    //метод показа ошибки
+    protected function displayError($errno, $errstr, $errfile, $errline, $responce = 500) //номер ошибки, текст ошибки, файл ошибки, строка ошибки, ответ в случае ошибки по умолчанию - 500
     {
         if($responce == 0) {
             $responce = 404;
         }
-        http_response_code($responce);
-//
+        http_response_code($responce); //отправляем код ответа
+//проверяем какую страницу показать пользователю и включен ли режим отладки
         if($responce == 404 && !DEBUG){
             require_once WWW . '/errors/404.php';
             die;

@@ -1,6 +1,6 @@
 {
   "name": "vendor_name/php-security-work.pp",
-  "description": "Система онлайн тестирования по охране труда по разделу Первая Помощь",
+  "description": "Локальный корпаративный сайт СКДИБ",
   "minimum-stability": "stable",
   "license": "proprietary",
   "authors": [

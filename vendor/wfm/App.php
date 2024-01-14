@@ -4,10 +4,10 @@ namespace wfm;
 
 class App
 {
-    public static $app;
+    public static $app; //В это свойство записывается контейнер формирующийся через Registry.php
     public function __construct()
     {
-        $query = trim(urldecode($_SERVER['QUERY_STRING']), '/');
+        $query = trim(urldecode($_SERVER['QUERY_STRING']), '/'); //строка запроса без слешей
         new ErrorHandler();
         self::$app = Registry::getInstance();
         $this->getParams();

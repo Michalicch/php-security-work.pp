@@ -7,7 +7,7 @@ function debug($data, $die = false)
         die;
     }
 }
-
+//функция убирает теги из строковых данных, делает так чтобы HTML теги не выполнялись
 function h($str)
 {
     return htmlspecialchars($str);

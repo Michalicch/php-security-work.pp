@@ -6,15 +6,16 @@ use RedBeanPHP\R;
 
 class View
 {
-    public string $content = '';
+    public string $content = ''; //Контентная часть которая будет подключаться в неизменный шаблон
 
     public function __construct(
-        public $route,
-        public $layout = '',
-        public $view = '',
+        public $route, //текущий маршрут
+        public $layout = '', //название шаблона если передадим
+        public $view = '', //
         public $meta = [],
     )
     {
+        //Проверка на наличие шаблона
         if(false !== $this->layout){
             $this->layout = $this->layout ?: LAYOUT;//layout будет равняться либо тому что там есть, либо константе LAYOUT
         }
@@ -23,10 +24,12 @@ class View
 //    /**
 //     * @throws \Exception
 //     */
+
+    //метод отрисовки страницы--------------------------------------------
     public function render($data)
     {
         if(is_array($data)) {
-            extract($data); //Извлечение данных
+            extract($data); //Извлечение данных из массива в виде переменных (метод extract)
         }
         $prefix = str_replace('\\', '/', $this->route['admin_prefix']);//ищем прямой слеш и заменяем его на обратный
         $view_file = APP . "/views/{$prefix}{$this->route['controller']}/{$this->view}.php"; //путь к видам
@@ -49,10 +52,11 @@ class View
         }
     }
 
+    //метод формирующий вывод мета тегов
     public function getMeta()
     {
         $out = '<title>' . h($this->meta['title']) . '</title>' . PHP_EOL;
-        $out .= '<meta name="description" content="'. h($this->meta['description']) . '">' . PHP_EOL;
+        $out .= '<meta name="description" content="'. h($this->meta['description']) . '">' . PHP_EOL; //функция  h убирает теги
         $out .= '<meta name="keywords" content="'. h($this->meta['keywords']) . '">' . PHP_EOL;
         return $out;
     }

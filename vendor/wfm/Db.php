@@ -10,7 +10,7 @@ class Db
 
     private function __construct()
     {
-        $db = require_once CONFIG . '/config_db.php'; //настройки подключения в базе данных
+        $db = require_once CONFIG . '/config_db.php'; //настройки подключения к базе данных
         R::setup($db['dsn'], $db['user'], $db['password']);
         if(!R::testConnection()) { //Проверка подключения к базе
             throw new \Exception('Нет  подключения к базе данных DB', 500);
